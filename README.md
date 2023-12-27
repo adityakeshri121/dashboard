@@ -2,10 +2,10 @@
 
 This project was created with create-react-app and other npm pakages like redux-tool-kit, react-router-dom and vanila CSS for styling
 
-##Landing Page
+## Landing Page
 ![image](https://github.com/adityakeshri121/dashboard/assets/119942855/e920102b-eef5-4d51-b057-4dce47567737)
 
-##Dashboard Page
+## Dashboard Page
 ![image](https://github.com/adityakeshri121/dashboard/assets/119942855/f8e8faa4-ad0a-4ac9-9771-2936ac820451)
 
 
