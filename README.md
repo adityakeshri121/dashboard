@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# This is the demo project for Hack2Skill, 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was created with create-react-app and other npm pakages like redux-tool-kit, react-router-dom and vanila CSS for styling
 
 ## Available Scripts
 
