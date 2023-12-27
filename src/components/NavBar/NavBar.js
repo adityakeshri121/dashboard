@@ -17,7 +17,7 @@ const NavBar = () => {
         <div>
             <nav className="navbar">
                 <div>
-                    <Link to="/user_dashboard" className="button" onClick={logoutUser}>
+                    <Link to="/" className="button" onClick={logoutUser}>
                         Home
                     </Link>
                 </div>

@@ -9,8 +9,8 @@ function App() {
       <BrowserRouter>
         <NavBar />
         <Routes>
-          <Route path="/user_dashboard" element={<Login />} />
-          <Route path='/user_dashboard/dashBoard' element={<Dashboard />} />
+          <Route path="/" element={<Login />} />
+          <Route path='/dashBoard' element={<Dashboard />} />
         </Routes>
       </BrowserRouter>
     </div>

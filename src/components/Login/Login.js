@@ -26,7 +26,7 @@ const Login = () => {
         }
         else {
             dispatch(userLogin(userName))
-            navigate('/user_dashboard/dashboard');
+            navigate('/dashboard');
             setValidUser(true);
 
         }
